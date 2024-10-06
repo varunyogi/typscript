@@ -1,0 +1,24 @@
+{
+  "name": "typescriptintro",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "compile": "tsc -p ./",
+    "watch": "tsc -watch -p ./",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varunyogi/typscript.git"
+  },
+  "author": "varun kaushik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/varunyogi/typscript/issues"
+  },
+  "homepage": "https://github.com/varunyogi/typscript#readme",
+  "description": "",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
